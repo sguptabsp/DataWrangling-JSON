@@ -1,0 +1,5119 @@
+[
+    {
+        "date": "2012-01-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-30T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-01-31T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-02-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-30T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-03-31T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-04-30T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-30T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-05-31T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-06-30T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-30T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-07-31T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-30T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-08-31T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-08T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-16T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-17T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-18T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-19T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-20T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-21T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-22T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-23T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-24T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-25T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-26T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-27T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-28T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-29T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-09-30T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-01T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-02T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-04T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-05T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-06T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-07T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-08T00:00:00",
+        "PageViews": "1",
+        "Visits": "1",
+        "UniqueVisitors": "1",
+        "BounceRate": "1"
+    },
+    {
+        "date": "2012-10-09T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-10T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-11T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-12T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-13T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-14T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-15T00:00:00",
+        "PageViews": "0",
+        "Visits": "0",
+        "UniqueVisitors": "0",
+        "BounceRate": "INF"
+    },
+    {
+        "date": "2012-10-16T00:00:00",
+        "PageViews": "4",
+        "Visits": "3",
+        "UniqueVisitors": "1",
+        "BounceRate": "0.6666666666"
+    },
+    {
+        "date": "2012-10-17T00:00:00",
+        "PageViews": "32",
+        "Visits": "11",
+        "UniqueVisitors": "9",
+        "BounceRate": "0.2727272727"
+    },
+    {
+        "date": "2012-10-18T00:00:00",
+        "PageViews": "550680",
+        "Visits": "185607",
+        "UniqueVisitors": "181942",
+        "BounceRate": "0.3105378568"
+    },
+    {
+        "date": "2012-10-19T00:00:00",
+        "PageViews": "7384524",
+        "Visits": "2522740",
+        "UniqueVisitors": "2366966",
+        "BounceRate": "0.3146360747"
+    },
+    {
+        "date": "2012-10-20T00:00:00",
+        "PageViews": "7416971",
+        "Visits": "2514948",
+        "UniqueVisitors": "2352663",
+        "BounceRate": "0.3100251012"
+    },
+    {
+        "date": "2012-10-21T00:00:00",
+        "PageViews": "7369053",
+        "Visits": "2501924",
+        "UniqueVisitors": "2340518",
+        "BounceRate": "0.3133657474"
+    },
+    {
+        "date": "2012-10-22T00:00:00",
+        "PageViews": "7563950",
+        "Visits": "2606561",
+        "UniqueVisitors": "2446982",
+        "BounceRate": "0.318720472"
+    },
+    {
+        "date": "2012-10-23T00:00:00",
+        "PageViews": "7626495",
+        "Visits": "2653545",
+        "UniqueVisitors": "2490659",
+        "BounceRate": "0.3188372256"
+    },
+    {
+        "date": "2012-10-24T00:00:00",
+        "PageViews": "8019731",
+        "Visits": "2814017",
+        "UniqueVisitors": "2648374",
+        "BounceRate": "0.3028694018"
+    },
+    {
+        "date": "2012-10-25T00:00:00",
+        "PageViews": "7732014",
+        "Visits": "2716399",
+        "UniqueVisitors": "2553910",
+        "BounceRate": "0.3113154347"
+    },
+    {
+        "date": "2012-10-26T00:00:00",
+        "PageViews": "7506557",
+        "Visits": "2624503",
+        "UniqueVisitors": "2463787",
+        "BounceRate": "0.3102596764"
+    },
+    {
+        "date": "2012-10-27T00:00:00",
+        "PageViews": "7528705",
+        "Visits": "2595434",
+        "UniqueVisitors": "2428113",
+        "BounceRate": "0.3049940806"
+    },
+    {
+        "date": "2012-10-28T00:00:00",
+        "PageViews": "7741075",
+        "Visits": "2660168",
+        "UniqueVisitors": "2489647",
+        "BounceRate": "0.3047509982"
+    },
+    {
+        "date": "2012-10-29T00:00:00",
+        "PageViews": "7947722",
+        "Visits": "2774823",
+        "UniqueVisitors": "2603578",
+        "BounceRate": "0.3155681869"
+    },
+    {
+        "date": "2012-10-30T00:00:00",
+        "PageViews": "7805080",
+        "Visits": "2732133",
+        "UniqueVisitors": "2564156",
+        "BounceRate": "0.3246135134"
+    },
+    {
+        "date": "2012-10-31T00:00:00",
+        "PageViews": "7575212",
+        "Visits": "2622328",
+        "UniqueVisitors": "2456520",
+        "BounceRate": "0.3118080179"
+    },
+    {
+        "date": "2012-11-01T00:00:00",
+        "PageViews": "7559253",
+        "Visits": "2659634",
+        "UniqueVisitors": "2492083",
+        "BounceRate": "0.3235203396"
+    },
+    {
+        "date": "2012-11-02T00:00:00",
+        "PageViews": "7728059",
+        "Visits": "2751560",
+        "UniqueVisitors": "2582104",
+        "BounceRate": "0.3255450522"
+    },
+    {
+        "date": "2012-11-03T00:00:00",
+        "PageViews": "7817593",
+        "Visits": "2721499",
+        "UniqueVisitors": "2546393",
+        "BounceRate": "0.3159838904"
+    },
+    {
+        "date": "2012-11-04T00:00:00",
+        "PageViews": "8281098",
+        "Visits": "2855448",
+        "UniqueVisitors": "2665907",
+        "BounceRate": "0.3121976316"
+    },
+    {
+        "date": "2012-11-05T00:00:00",
+        "PageViews": "8030066",
+        "Visits": "2763455",
+        "UniqueVisitors": "2594277",
+        "BounceRate": "0.3119254347"
+    },
+    {
+        "date": "2012-11-06T00:00:00",
+        "PageViews": "7716068",
+        "Visits": "2717064",
+        "UniqueVisitors": "2548068",
+        "BounceRate": "0.3192525984"
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "PageViews": "7728532",
+        "Visits": "2733565",
+        "UniqueVisitors": "2564898",
+        "BounceRate": "0.3194141191"
+    },
+    {
+        "date": "2012-11-08T00:00:00",
+        "PageViews": "7966880",
+        "Visits": "2796070",
+        "UniqueVisitors": "2625580",
+        "BounceRate": "0.3122160905"
+    },
+    {
+        "date": "2012-11-09T00:00:00",
+        "PageViews": "7562921",
+        "Visits": "2671770",
+        "UniqueVisitors": "2500546",
+        "BounceRate": "0.3196790838"
+    },
+    {
+        "date": "2012-11-10T00:00:00",
+        "PageViews": "7462495",
+        "Visits": "2626554",
+        "UniqueVisitors": "2450545",
+        "BounceRate": "0.3173049008"
+    },
+    {
+        "date": "2012-11-11T00:00:00",
+        "PageViews": "7313862",
+        "Visits": "2584777",
+        "UniqueVisitors": "2412514",
+        "BounceRate": "0.3206128443"
+    },
+    {
+        "date": "2012-11-12T00:00:00",
+        "PageViews": "7556024",
+        "Visits": "2681810",
+        "UniqueVisitors": "2511194",
+        "BounceRate": "0.3285200808"
+    },
+    {
+        "date": "2012-11-13T00:00:00",
+        "PageViews": "7316772",
+        "Visits": "2609269",
+        "UniqueVisitors": "2443976",
+        "BounceRate": "0.3327706769"
+    },
+    {
+        "date": "2012-11-14T00:00:00",
+        "PageViews": "7311620",
+        "Visits": "2633794",
+        "UniqueVisitors": "2467245",
+        "BounceRate": "0.3357782014"
+    },
+    {
+        "date": "2012-11-15T00:00:00",
+        "PageViews": "7193596",
+        "Visits": "2594934",
+        "UniqueVisitors": "2431273",
+        "BounceRate": "0.3343713764"
+    },
+    {
+        "date": "2012-11-16T00:00:00",
+        "PageViews": "7495353",
+        "Visits": "2671019",
+        "UniqueVisitors": "2502038",
+        "BounceRate": "0.3257951834"
+    },
+    {
+        "date": "2012-11-17T00:00:00",
+        "PageViews": "7603549",
+        "Visits": "2630018",
+        "UniqueVisitors": "2455217",
+        "BounceRate": "0.3228927844"
+    },
+    {
+        "date": "2012-11-18T00:00:00",
+        "PageViews": "7563224",
+        "Visits": "2610474",
+        "UniqueVisitors": "2436847",
+        "BounceRate": "0.3265530781"
+    },
+    {
+        "date": "2012-11-19T00:00:00",
+        "PageViews": "7682234",
+        "Visits": "2694660",
+        "UniqueVisitors": "2527283",
+        "BounceRate": "0.3297655254"
+    },
+    {
+        "date": "2012-11-20T00:00:00",
+        "PageViews": "7699625",
+        "Visits": "2704649",
+        "UniqueVisitors": "2536194",
+        "BounceRate": "0.3352544419"
+    },
+    {
+        "date": "2012-11-21T00:00:00",
+        "PageViews": "7529964",
+        "Visits": "2626750",
+        "UniqueVisitors": "2461546",
+        "BounceRate": "0.3326937799"
+    },
+    {
+        "date": "2012-11-22T00:00:00",
+        "PageViews": "7414058",
+        "Visits": "2571692",
+        "UniqueVisitors": "2407227",
+        "BounceRate": "0.329467178"
+    },
+    {
+        "date": "2012-11-23T00:00:00",
+        "PageViews": "7582066",
+        "Visits": "2637847",
+        "UniqueVisitors": "2462617",
+        "BounceRate": "0.329881732"
+    },
+    {
+        "date": "2012-11-24T00:00:00",
+        "PageViews": "7658847",
+        "Visits": "2639229",
+        "UniqueVisitors": "2458402",
+        "BounceRate": "0.3298071119"
+    },
+    {
+        "date": "2012-11-25T00:00:00",
+        "PageViews": "7485471",
+        "Visits": "2581022",
+        "UniqueVisitors": "2409867",
+        "BounceRate": "0.3313973416"
+    },
+    {
+        "date": "2012-11-26T00:00:00",
+        "PageViews": "7601938",
+        "Visits": "2673458",
+        "UniqueVisitors": "2505724",
+        "BounceRate": "0.3362232215"
+    },
+    {
+        "date": "2012-11-27T00:00:00",
+        "PageViews": "7778570",
+        "Visits": "2731987",
+        "UniqueVisitors": "2559750",
+        "BounceRate": "0.3382073503"
+    },
+    {
+        "date": "2012-11-28T00:00:00",
+        "PageViews": "7765405",
+        "Visits": "2733106",
+        "UniqueVisitors": "2561494",
+        "BounceRate": "0.3333924702"
+    },
+    {
+        "date": "2012-11-29T00:00:00",
+        "PageViews": "7283895",
+        "Visits": "2561777",
+        "UniqueVisitors": "2402732",
+        "BounceRate": "0.333822191"
+    },
+    {
+        "date": "2012-11-30T00:00:00",
+        "PageViews": "6054257",
+        "Visits": "2142805",
+        "UniqueVisitors": "2010234",
+        "BounceRate": "0.335548794"
+    },
+    {
+        "date": "2012-12-01T00:00:00",
+        "PageViews": "6333615",
+        "Visits": "2206657",
+        "UniqueVisitors": "2057337",
+        "BounceRate": "0.3229813354"
+    },
+    {
+        "date": "2012-12-02T00:00:00",
+        "PageViews": "6379996",
+        "Visits": "2223778",
+        "UniqueVisitors": "2071364",
+        "BounceRate": "0.3268142556"
+    },
+    {
+        "date": "2012-12-03T00:00:00",
+        "PageViews": "6374258",
+        "Visits": "2256982",
+        "UniqueVisitors": "2109066",
+        "BounceRate": "0.3307144283"
+    },
+    {
+        "date": "2012-12-04T00:00:00",
+        "PageViews": "6428379",
+        "Visits": "2277106",
+        "UniqueVisitors": "2127392",
+        "BounceRate": "0.3325962699"
+    },
+    {
+        "date": "2012-12-05T00:00:00",
+        "PageViews": "6693743",
+        "Visits": "2371680",
+        "UniqueVisitors": "2225250",
+        "BounceRate": "0.3401268052"
+    },
+    {
+        "date": "2012-12-06T00:00:00",
+        "PageViews": "7614680",
+        "Visits": "2690430",
+        "UniqueVisitors": "2522243",
+        "BounceRate": "0.3413948777"
+    },
+    {
+        "date": "2012-12-07T00:00:00",
+        "PageViews": "7462077",
+        "Visits": "2635160",
+        "UniqueVisitors": "2466789",
+        "BounceRate": "0.3385880953"
+    },
+    {
+        "date": "2012-12-08T00:00:00",
+        "PageViews": "7487850",
+        "Visits": "2616125",
+        "UniqueVisitors": "2439606",
+        "BounceRate": "0.3380422898"
+    },
+    {
+        "date": "2012-12-09T00:00:00",
+        "PageViews": "7509742",
+        "Visits": "2616324",
+        "UniqueVisitors": "2441807",
+        "BounceRate": "0.337211916"
+    },
+    {
+        "date": "2012-12-10T00:00:00",
+        "PageViews": "7662805",
+        "Visits": "2702083",
+        "UniqueVisitors": "2531837",
+        "BounceRate": "0.3381029953"
+    },
+    {
+        "date": "2012-12-11T00:00:00",
+        "PageViews": "7836581",
+        "Visits": "2764551",
+        "UniqueVisitors": "2587467",
+        "BounceRate": "0.3297718616"
+    },
+    {
+        "date": "2012-12-12T00:00:00",
+        "PageViews": "7584336",
+        "Visits": "2685806",
+        "UniqueVisitors": "2515673",
+        "BounceRate": "0.3314312826"
+    },
+    {
+        "date": "2012-12-13T00:00:00",
+        "PageViews": "7609017",
+        "Visits": "2693468",
+        "UniqueVisitors": "2520979",
+        "BounceRate": "0.3271145314"
+    },
+    {
+        "date": "2012-12-14T00:00:00",
+        "PageViews": "7401174",
+        "Visits": "2635784",
+        "UniqueVisitors": "2468690",
+        "BounceRate": "0.3228767674"
+    },
+    {
+        "date": "2012-12-15T00:00:00",
+        "PageViews": "7361381",
+        "Visits": "2597983",
+        "UniqueVisitors": "2421506",
+        "BounceRate": "0.3313566936"
+    },
+    {
+        "date": "2012-12-16T00:00:00",
+        "PageViews": "7408728",
+        "Visits": "2582240",
+        "UniqueVisitors": "2408371",
+        "BounceRate": "0.3243481995"
+    },
+    {
+        "date": "2012-12-17T00:00:00",
+        "PageViews": "7419845",
+        "Visits": "2639862",
+        "UniqueVisitors": "2472387",
+        "BounceRate": "0.3363776876"
+    },
+    {
+        "date": "2012-12-18T00:00:00",
+        "PageViews": "7503832",
+        "Visits": "2656825",
+        "UniqueVisitors": "2487976",
+        "BounceRate": "0.3354978044"
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "PageViews": "7666156",
+        "Visits": "2708749",
+        "UniqueVisitors": "2532652",
+        "BounceRate": "0.3288692501"
+    },
+    {
+        "date": "2012-12-20T00:00:00",
+        "PageViews": "7322329",
+        "Visits": "2597652",
+        "UniqueVisitors": "2428727",
+        "BounceRate": "0.3310172793"
+    },
+    {
+        "date": "2012-12-21T00:00:00",
+        "PageViews": "7365253",
+        "Visits": "2626077",
+        "UniqueVisitors": "2454864",
+        "BounceRate": "0.3290302546"
+    },
+    {
+        "date": "2012-12-22T00:00:00",
+        "PageViews": "7497466",
+        "Visits": "2639003",
+        "UniqueVisitors": "2458340",
+        "BounceRate": "0.3304187196"
+    },
+    {
+        "date": "2012-12-23T00:00:00",
+        "PageViews": "7451524",
+        "Visits": "2612437",
+        "UniqueVisitors": "2431134",
+        "BounceRate": "0.3280908028"
+    },
+    {
+        "date": "2012-12-24T00:00:00",
+        "PageViews": "6765727",
+        "Visits": "2387543",
+        "UniqueVisitors": "2221042",
+        "BounceRate": "0.33928456"
+    },
+    {
+        "date": "2012-12-25T00:00:00",
+        "PageViews": "7687197",
+        "Visits": "2684106",
+        "UniqueVisitors": "2493294",
+        "BounceRate": "0.3315217066"
+    },
+    {
+        "date": "2012-12-26T00:00:00",
+        "PageViews": "8046517",
+        "Visits": "2811791",
+        "UniqueVisitors": "2620263",
+        "BounceRate": "0.338511262"
+    },
+    {
+        "date": "2012-12-27T00:00:00",
+        "PageViews": "8053637",
+        "Visits": "2825761",
+        "UniqueVisitors": "2632253",
+        "BounceRate": "0.3416052395"
+    },
+    {
+        "date": "2012-12-28T00:00:00",
+        "PageViews": "7788675",
+        "Visits": "2747372",
+        "UniqueVisitors": "2559227",
+        "BounceRate": "0.3416415005"
+    },
+    {
+        "date": "2012-12-29T00:00:00",
+        "PageViews": "7708163",
+        "Visits": "2678163",
+        "UniqueVisitors": "2489014",
+        "BounceRate": "0.3403590378"
+    },
+    {
+        "date": "2012-12-30T00:00:00",
+        "PageViews": "7436872",
+        "Visits": "2584107",
+        "UniqueVisitors": "2401807",
+        "BounceRate": "0.3389405386"
+    },
+    {
+        "date": "2012-12-31T00:00:00",
+        "PageViews": "6676026",
+        "Visits": "2334501",
+        "UniqueVisitors": "2175323",
+        "BounceRate": "0.3399443132"
+    },
+    {
+        "date": "2013-01-01T00:00:00",
+        "PageViews": "7091545",
+        "Visits": "2410659",
+        "UniqueVisitors": "2245653",
+        "BounceRate": "0.3329567363"
+    },
+    {
+        "date": "2013-01-02T00:00:00",
+        "PageViews": "7964268",
+        "Visits": "2785835",
+        "UniqueVisitors": "2603808",
+        "BounceRate": "0.3373843654"
+    },
+    {
+        "date": "2013-01-03T00:00:00",
+        "PageViews": "7935624",
+        "Visits": "2801263",
+        "UniqueVisitors": "2620139",
+        "BounceRate": "0.3371885032"
+    },
+    {
+        "date": "2013-01-04T00:00:00",
+        "PageViews": "7819350",
+        "Visits": "2738888",
+        "UniqueVisitors": "2562202",
+        "BounceRate": "0.3355324206"
+    },
+    {
+        "date": "2013-01-05T00:00:00",
+        "PageViews": "7794211",
+        "Visits": "2693580",
+        "UniqueVisitors": "2512473",
+        "BounceRate": "0.3327895"
+    },
+    {
+        "date": "2013-01-06T00:00:00",
+        "PageViews": "7628850",
+        "Visits": "2627664",
+        "UniqueVisitors": "2452082",
+        "BounceRate": "0.3342247192"
+    },
+    {
+        "date": "2013-01-07T00:00:00",
+        "PageViews": "7788205",
+        "Visits": "2820656",
+        "UniqueVisitors": "2646692",
+        "BounceRate": "0.3644258244"
+    },
+    {
+        "date": "2013-01-08T00:00:00",
+        "PageViews": "7863299",
+        "Visits": "2846128",
+        "UniqueVisitors": "2671593",
+        "BounceRate": "0.3645259742"
+    },
+    {
+        "date": "2013-01-09T00:00:00",
+        "PageViews": "7917795",
+        "Visits": "2839425",
+        "UniqueVisitors": "2662918",
+        "BounceRate": "0.3552715323"
+    },
+    {
+        "date": "2013-01-10T00:00:00",
+        "PageViews": "7638747",
+        "Visits": "2702900",
+        "UniqueVisitors": "2532882",
+        "BounceRate": "0.3442005258"
+    },
+    {
+        "date": "2013-01-11T00:00:00",
+        "PageViews": "7625444",
+        "Visits": "2704751",
+        "UniqueVisitors": "2534290",
+        "BounceRate": "0.3408019553"
+    },
+    {
+        "date": "2013-01-12T00:00:00",
+        "PageViews": "7829910",
+        "Visits": "2743694",
+        "UniqueVisitors": "2559502",
+        "BounceRate": "0.3388842622"
+    },
+    {
+        "date": "2013-01-13T00:00:00",
+        "PageViews": "7749048",
+        "Visits": "2708168",
+        "UniqueVisitors": "2527423",
+        "BounceRate": "0.3395988125"
+    },
+    {
+        "date": "2013-01-14T00:00:00",
+        "PageViews": "7713439",
+        "Visits": "2733342",
+        "UniqueVisitors": "2560979",
+        "BounceRate": "0.3426047644"
+    },
+    {
+        "date": "2013-01-15T00:00:00",
+        "PageViews": "7633378",
+        "Visits": "2708825",
+        "UniqueVisitors": "2539189",
+        "BounceRate": "0.3427393364"
+    },
+    {
+        "date": "2013-01-16T00:00:00",
+        "PageViews": "7650732",
+        "Visits": "2709627",
+        "UniqueVisitors": "2539406",
+        "BounceRate": "0.3436247103"
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "PageViews": "7593427",
+        "Visits": "2685747",
+        "UniqueVisitors": "2516697",
+        "BounceRate": "0.344044299"
+    },
+    {
+        "date": "2013-01-18T00:00:00",
+        "PageViews": "7594997",
+        "Visits": "2678716",
+        "UniqueVisitors": "2507483",
+        "BounceRate": "0.3392231447"
+    },
+    {
+        "date": "2013-01-19T00:00:00",
+        "PageViews": "7728035",
+        "Visits": "2696518",
+        "UniqueVisitors": "2513692",
+        "BounceRate": "0.3388903006"
+    },
+    {
+        "date": "2013-01-20T00:00:00",
+        "PageViews": "7676136",
+        "Visits": "2678645",
+        "UniqueVisitors": "2497062",
+        "BounceRate": "0.3425494205"
+    },
+    {
+        "date": "2013-01-21T00:00:00",
+        "PageViews": "8247218",
+        "Visits": "2930065",
+        "UniqueVisitors": "2731055",
+        "BounceRate": "0.3476802482"
+    },
+    {
+        "date": "2013-01-22T00:00:00",
+        "PageViews": "8141786",
+        "Visits": "2911950",
+        "UniqueVisitors": "2718000",
+        "BounceRate": "0.3474320709"
+    },
+    {
+        "date": "2013-01-23T00:00:00",
+        "PageViews": "7921750",
+        "Visits": "2841364",
+        "UniqueVisitors": "2658146",
+        "BounceRate": "0.3470310538"
+    },
+    {
+        "date": "2013-01-24T00:00:00",
+        "PageViews": "7860833",
+        "Visits": "2790033",
+        "UniqueVisitors": "2618540",
+        "BounceRate": "0.3335705218"
+    },
+    {
+        "date": "2013-01-25T00:00:00",
+        "PageViews": "7701019",
+        "Visits": "2740584",
+        "UniqueVisitors": "2568741",
+        "BounceRate": "0.3371715425"
+    },
+    {
+        "date": "2013-01-26T00:00:00",
+        "PageViews": "7835167",
+        "Visits": "2738993",
+        "UniqueVisitors": "2555809",
+        "BounceRate": "0.33724638"
+    },
+    {
+        "date": "2013-01-27T00:00:00",
+        "PageViews": "7909929",
+        "Visits": "2752581",
+        "UniqueVisitors": "2569532",
+        "BounceRate": "0.3362958805"
+    },
+    {
+        "date": "2013-01-28T00:00:00",
+        "PageViews": "8190171",
+        "Visits": "2912120",
+        "UniqueVisitors": "2736134",
+        "BounceRate": "0.3302411701"
+    },
+    {
+        "date": "2013-01-29T00:00:00",
+        "PageViews": "8138658",
+        "Visits": "2897548",
+        "UniqueVisitors": "2720615",
+        "BounceRate": "0.3382964747"
+    },
+    {
+        "date": "2013-01-30T00:00:00",
+        "PageViews": "8196517",
+        "Visits": "2923435",
+        "UniqueVisitors": "2743886",
+        "BounceRate": "0.3375568516"
+    },
+    {
+        "date": "2013-01-31T00:00:00",
+        "PageViews": "8397691",
+        "Visits": "3006479",
+        "UniqueVisitors": "2818840",
+        "BounceRate": "0.3341360818"
+    },
+    {
+        "date": "2013-02-01T00:00:00",
+        "PageViews": "7938563",
+        "Visits": "2815639",
+        "UniqueVisitors": "2637344",
+        "BounceRate": "0.33034447"
+    },
+    {
+        "date": "2013-02-02T00:00:00",
+        "PageViews": "8016804",
+        "Visits": "2826303",
+        "UniqueVisitors": "2637645",
+        "BounceRate": "0.3320870549"
+    },
+    {
+        "date": "2013-02-03T00:00:00",
+        "PageViews": "7738891",
+        "Visits": "2721348",
+        "UniqueVisitors": "2540832",
+        "BounceRate": "0.3312633767"
+    },
+    {
+        "date": "2013-02-04T00:00:00",
+        "PageViews": "7909335",
+        "Visits": "2832087",
+        "UniqueVisitors": "2658246",
+        "BounceRate": "0.3394474581"
+    },
+    {
+        "date": "2013-02-05T00:00:00",
+        "PageViews": "7787148",
+        "Visits": "2781998",
+        "UniqueVisitors": "2609346",
+        "BounceRate": "0.3394169086"
+    },
+    {
+        "date": "2013-02-06T00:00:00",
+        "PageViews": "7870941",
+        "Visits": "2810051",
+        "UniqueVisitors": "2634464",
+        "BounceRate": "0.342991654"
+    },
+    {
+        "date": "2013-02-07T00:00:00",
+        "PageViews": "7713475",
+        "Visits": "2754495",
+        "UniqueVisitors": "2584758",
+        "BounceRate": "0.3393015798"
+    },
+    {
+        "date": "2013-02-08T00:00:00",
+        "PageViews": "7933791",
+        "Visits": "2826871",
+        "UniqueVisitors": "2644392",
+        "BounceRate": "0.3323416828"
+    },
+    {
+        "date": "2013-02-09T00:00:00",
+        "PageViews": "7981056",
+        "Visits": "2812127",
+        "UniqueVisitors": "2622008",
+        "BounceRate": "0.3350195643"
+    },
+    {
+        "date": "2013-02-10T00:00:00",
+        "PageViews": "7851293",
+        "Visits": "2760632",
+        "UniqueVisitors": "2579472",
+        "BounceRate": "0.3317072728"
+    },
+    {
+        "date": "2013-02-11T00:00:00",
+        "PageViews": "7816150",
+        "Visits": "2794997",
+        "UniqueVisitors": "2619416",
+        "BounceRate": "0.3393106369"
+    },
+    {
+        "date": "2013-02-12T00:00:00",
+        "PageViews": "7848142",
+        "Visits": "2806723",
+        "UniqueVisitors": "2630004",
+        "BounceRate": "0.3415354204"
+    },
+    {
+        "date": "2013-02-13T00:00:00",
+        "PageViews": "7746756",
+        "Visits": "2777503",
+        "UniqueVisitors": "2604080",
+        "BounceRate": "0.3402524318"
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "PageViews": "7496158",
+        "Visits": "2680263",
+        "UniqueVisitors": "2514078",
+        "BounceRate": "0.3363496303"
+    },
+    {
+        "date": "2013-02-15T00:00:00",
+        "PageViews": "6520103",
+        "Visits": "2455001",
+        "UniqueVisitors": "2301304",
+        "BounceRate": "0.3587344474"
+    },
+    {
+        "date": "2013-02-16T00:00:00",
+        "PageViews": "8383653",
+        "Visits": "2970816",
+        "UniqueVisitors": "2774299",
+        "BounceRate": "0.3374525548"
+    },
+    {
+        "date": "2013-02-17T00:00:00",
+        "PageViews": "8160090",
+        "Visits": "2897983",
+        "UniqueVisitors": "2708148",
+        "BounceRate": "0.3385119864"
+    },
+    {
+        "date": "2013-02-18T00:00:00",
+        "PageViews": "8291872",
+        "Visits": "2965102",
+        "UniqueVisitors": "2777247",
+        "BounceRate": "0.3423505073"
+    },
+    {
+        "date": "2013-02-19T00:00:00",
+        "PageViews": "8237253",
+        "Visits": "2974861",
+        "UniqueVisitors": "2793285",
+        "BounceRate": "0.3382791535"
+    },
+    {
+        "date": "2013-02-20T00:00:00",
+        "PageViews": "8086297",
+        "Visits": "2970205",
+        "UniqueVisitors": "2789916",
+        "BounceRate": "0.3418867219"
+    },
+    {
+        "date": "2013-02-21T00:00:00",
+        "PageViews": "8163326",
+        "Visits": "2981785",
+        "UniqueVisitors": "2788275",
+        "BounceRate": "0.3400003965"
+    },
+    {
+        "date": "2013-02-22T00:00:00",
+        "PageViews": "7904970",
+        "Visits": "2897556",
+        "UniqueVisitors": "2703699",
+        "BounceRate": "0.3422442326"
+    },
+    {
+        "date": "2013-02-23T00:00:00",
+        "PageViews": "8135905",
+        "Visits": "2919578",
+        "UniqueVisitors": "2717396",
+        "BounceRate": "0.3379346298"
+    },
+    {
+        "date": "2013-02-24T00:00:00",
+        "PageViews": "8087734",
+        "Visits": "2889395",
+        "UniqueVisitors": "2692497",
+        "BounceRate": "0.3388899524"
+    },
+    {
+        "date": "2013-02-25T00:00:00",
+        "PageViews": "8094431",
+        "Visits": "2908888",
+        "UniqueVisitors": "2721470",
+        "BounceRate": "0.3453021388"
+    },
+    {
+        "date": "2013-02-26T00:00:00",
+        "PageViews": "8244868",
+        "Visits": "2982346",
+        "UniqueVisitors": "2786050",
+        "BounceRate": "0.3463906006"
+    },
+    {
+        "date": "2013-02-27T00:00:00",
+        "PageViews": "7997442",
+        "Visits": "2909094",
+        "UniqueVisitors": "2715837",
+        "BounceRate": "0.3444710927"
+    },
+    {
+        "date": "2013-02-28T00:00:00",
+        "PageViews": "7780214",
+        "Visits": "2826871",
+        "UniqueVisitors": "2645402",
+        "BounceRate": "0.3397525777"
+    },
+    {
+        "date": "2013-03-01T00:00:00",
+        "PageViews": "7790194",
+        "Visits": "2803016",
+        "UniqueVisitors": "2625995",
+        "BounceRate": "0.3493869542"
+    },
+    {
+        "date": "2013-03-02T00:00:00",
+        "PageViews": "7835962",
+        "Visits": "2787638",
+        "UniqueVisitors": "2601571",
+        "BounceRate": "0.3586356191"
+    },
+    {
+        "date": "2013-03-03T00:00:00",
+        "PageViews": "7750128",
+        "Visits": "2757129",
+        "UniqueVisitors": "2575464",
+        "BounceRate": "0.3586296176"
+    },
+    {
+        "date": "2013-03-04T00:00:00",
+        "PageViews": "7680465",
+        "Visits": "2775789",
+        "UniqueVisitors": "2600478",
+        "BounceRate": "0.3619854629"
+    },
+    {
+        "date": "2013-03-05T00:00:00",
+        "PageViews": "7752482",
+        "Visits": "2779358",
+        "UniqueVisitors": "2595335",
+        "BounceRate": "0.3565882922"
+    },
+    {
+        "date": "2013-03-06T00:00:00",
+        "PageViews": "7924356",
+        "Visits": "2806775",
+        "UniqueVisitors": "2628966",
+        "BounceRate": "0.3529162747"
+    },
+    {
+        "date": "2013-03-07T00:00:00",
+        "PageViews": "7861288",
+        "Visits": "2803707",
+        "UniqueVisitors": "2622501",
+        "BounceRate": "0.3513716908"
+    },
+    {
+        "date": "2013-03-08T00:00:00",
+        "PageViews": "7709193",
+        "Visits": "2756433",
+        "UniqueVisitors": "2579583",
+        "BounceRate": "0.3536720868"
+    },
+    {
+        "date": "2013-03-09T00:00:00",
+        "PageViews": "7790175",
+        "Visits": "2764374",
+        "UniqueVisitors": "2572716",
+        "BounceRate": "0.3515775639"
+    },
+    {
+        "date": "2013-03-10T00:00:00",
+        "PageViews": "7470929",
+        "Visits": "2634527",
+        "UniqueVisitors": "2461113",
+        "BounceRate": "0.3513600688"
+    },
+    {
+        "date": "2013-03-11T00:00:00",
+        "PageViews": "7805551",
+        "Visits": "2799107",
+        "UniqueVisitors": "2611073",
+        "BounceRate": "0.3580303465"
+    },
+    {
+        "date": "2013-03-12T00:00:00",
+        "PageViews": "8231099",
+        "Visits": "2855714",
+        "UniqueVisitors": "2670461",
+        "BounceRate": "0.3523614362"
+    },
+    {
+        "date": "2013-03-13T00:00:00",
+        "PageViews": "8602275",
+        "Visits": "2914045",
+        "UniqueVisitors": "2729434",
+        "BounceRate": "0.3462277843"
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "PageViews": "8483756",
+        "Visits": "2771419",
+        "UniqueVisitors": "2606241",
+        "BounceRate": "0.336715474"
+    },
+    {
+        "date": "2013-03-15T00:00:00",
+        "PageViews": "6939825",
+        "Visits": "2488941",
+        "UniqueVisitors": "2331652",
+        "BounceRate": "0.3466170494"
+    },
+    {
+        "date": "2013-03-16T00:00:00",
+        "PageViews": "7104667",
+        "Visits": "2510265",
+        "UniqueVisitors": "2332387",
+        "BounceRate": "0.3449941794"
+    },
+    {
+        "date": "2013-03-17T00:00:00",
+        "PageViews": "7091159",
+        "Visits": "2514453",
+        "UniqueVisitors": "2348205",
+        "BounceRate": "0.3476293202"
+    },
+    {
+        "date": "2013-03-18T00:00:00",
+        "PageViews": "7147402",
+        "Visits": "2569848",
+        "UniqueVisitors": "2412100",
+        "BounceRate": "0.3551177665"
+    },
+    {
+        "date": "2013-03-19T00:00:00",
+        "PageViews": "7822982",
+        "Visits": "2834776",
+        "UniqueVisitors": "2611687",
+        "BounceRate": "0.3643707795"
+    },
+    {
+        "date": "2013-03-20T00:00:00",
+        "PageViews": "7782373",
+        "Visits": "2853869",
+        "UniqueVisitors": "2589113",
+        "BounceRate": "0.3695517679"
+    },
+    {
+        "date": "2013-03-21T00:00:00",
+        "PageViews": "7677543",
+        "Visits": "2801158",
+        "UniqueVisitors": "2595188",
+        "BounceRate": "0.3649656791"
+    },
+    {
+        "date": "2013-03-22T00:00:00",
+        "PageViews": "7280780",
+        "Visits": "2673964",
+        "UniqueVisitors": "2490121",
+        "BounceRate": "0.3683927866"
+    },
+    {
+        "date": "2013-03-23T00:00:00",
+        "PageViews": "7311495",
+        "Visits": "2644400",
+        "UniqueVisitors": "2462986",
+        "BounceRate": "0.3675863226"
+    },
+    {
+        "date": "2013-03-24T00:00:00",
+        "PageViews": "7327906",
+        "Visits": "2653535",
+        "UniqueVisitors": "2471822",
+        "BounceRate": "0.3688264087"
+    },
+    {
+        "date": "2013-03-25T00:00:00",
+        "PageViews": "7365608",
+        "Visits": "2702204",
+        "UniqueVisitors": "2529917",
+        "BounceRate": "0.3726356857"
+    },
+    {
+        "date": "2013-03-26T00:00:00",
+        "PageViews": "7358702",
+        "Visits": "2692056",
+        "UniqueVisitors": "2519778",
+        "BounceRate": "0.3661023634"
+    },
+    {
+        "date": "2013-03-27T00:00:00",
+        "PageViews": "7214346",
+        "Visits": "2659585",
+        "UniqueVisitors": "2486440",
+        "BounceRate": "0.3691135794"
+    },
+    {
+        "date": "2013-03-28T00:00:00",
+        "PageViews": "7237254",
+        "Visits": "2660701",
+        "UniqueVisitors": "2484469",
+        "BounceRate": "0.3640541908"
+    },
+    {
+        "date": "2013-03-29T00:00:00",
+        "PageViews": "7179261",
+        "Visits": "2622489",
+        "UniqueVisitors": "2440711",
+        "BounceRate": "0.3653730371"
+    },
+    {
+        "date": "2013-03-30T00:00:00",
+        "PageViews": "6840497",
+        "Visits": "2490349",
+        "UniqueVisitors": "2314177",
+        "BounceRate": "0.3694254779"
+    },
+    {
+        "date": "2013-03-31T00:00:00",
+        "PageViews": "6799134",
+        "Visits": "2461832",
+        "UniqueVisitors": "2290076",
+        "BounceRate": "0.3678586428"
+    },
+    {
+        "date": "2013-04-01T00:00:00",
+        "PageViews": "7202732",
+        "Visits": "2607689",
+        "UniqueVisitors": "2435833",
+        "BounceRate": "0.3649647206"
+    },
+    {
+        "date": "2013-04-02T00:00:00",
+        "PageViews": "7150863",
+        "Visits": "2614800",
+        "UniqueVisitors": "2446219",
+        "BounceRate": "0.3664958787"
+    },
+    {
+        "date": "2013-04-03T00:00:00",
+        "PageViews": "7030300",
+        "Visits": "2604302",
+        "UniqueVisitors": "2440119",
+        "BounceRate": "0.3689524502"
+    },
+    {
+        "date": "2013-04-04T00:00:00",
+        "PageViews": "7099609",
+        "Visits": "2619192",
+        "UniqueVisitors": "2454470",
+        "BounceRate": "0.3620021786"
+    },
+    {
+        "date": "2013-04-05T00:00:00",
+        "PageViews": "6872977",
+        "Visits": "2551773",
+        "UniqueVisitors": "2390026",
+        "BounceRate": "0.3674668672"
+    },
+    {
+        "date": "2013-04-06T00:00:00",
+        "PageViews": "6716149",
+        "Visits": "2464623",
+        "UniqueVisitors": "2299385",
+        "BounceRate": "0.3658493072"
+    },
+    {
+        "date": "2013-04-07T00:00:00",
+        "PageViews": "6867510",
+        "Visits": "2485789",
+        "UniqueVisitors": "2322263",
+        "BounceRate": "0.362042275"
+    },
+    {
+        "date": "2013-04-08T00:00:00",
+        "PageViews": "6950369",
+        "Visits": "2580917",
+        "UniqueVisitors": "2416937",
+        "BounceRate": "0.3721606089"
+    },
+    {
+        "date": "2013-04-09T00:00:00",
+        "PageViews": "6952105",
+        "Visits": "2583435",
+        "UniqueVisitors": "2416930",
+        "BounceRate": "0.3723309931"
+    },
+    {
+        "date": "2013-04-10T00:00:00",
+        "PageViews": "6890019",
+        "Visits": "2587606",
+        "UniqueVisitors": "2424685",
+        "BounceRate": "0.3786494531"
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "PageViews": "7034394",
+        "Visits": "2625856",
+        "UniqueVisitors": "2464329",
+        "BounceRate": "0.3743756014"
+    },
+    {
+        "date": "2013-04-12T00:00:00",
+        "PageViews": "6884613",
+        "Visits": "2562081",
+        "UniqueVisitors": "2402470",
+        "BounceRate": "0.3706310819"
+    },
+    {
+        "date": "2013-04-13T00:00:00",
+        "PageViews": "6770414",
+        "Visits": "2490521",
+        "UniqueVisitors": "2327828",
+        "BounceRate": "0.3706378666"
+    },
+    {
+        "date": "2013-04-14T00:00:00",
+        "PageViews": "6739674",
+        "Visits": "2473467",
+        "UniqueVisitors": "2311461",
+        "BounceRate": "0.3719882213"
+    },
+    {
+        "date": "2013-04-15T00:00:00",
+        "PageViews": "6738477",
+        "Visits": "2534333",
+        "UniqueVisitors": "2377459",
+        "BounceRate": "0.3852352897"
+    },
+    {
+        "date": "2013-04-16T00:00:00",
+        "PageViews": "6857627",
+        "Visits": "2561287",
+        "UniqueVisitors": "2405882",
+        "BounceRate": "0.375194826"
+    },
+    {
+        "date": "2013-04-17T00:00:00",
+        "PageViews": "6979679",
+        "Visits": "2596902",
+        "UniqueVisitors": "2436955",
+        "BounceRate": "0.3719741946"
+    },
+    {
+        "date": "2013-04-18T00:00:00",
+        "PageViews": "6934169",
+        "Visits": "2577117",
+        "UniqueVisitors": "2417754",
+        "BounceRate": "0.3710195427"
+    },
+    {
+        "date": "2013-04-19T00:00:00",
+        "PageViews": "6826350",
+        "Visits": "2540509",
+        "UniqueVisitors": "2383360",
+        "BounceRate": "0.3647238355"
+    },
+    {
+        "date": "2013-04-20T00:00:00",
+        "PageViews": "6727034",
+        "Visits": "2487179",
+        "UniqueVisitors": "2324133",
+        "BounceRate": "0.371271852"
+    },
+    {
+        "date": "2013-04-21T00:00:00",
+        "PageViews": "6722464",
+        "Visits": "2472159",
+        "UniqueVisitors": "2312166",
+        "BounceRate": "0.3696593541"
+    },
+    {
+        "date": "2013-04-22T00:00:00",
+        "PageViews": "6928486",
+        "Visits": "2591914",
+        "UniqueVisitors": "2426789",
+        "BounceRate": "0.3750584431"
+    },
+    {
+        "date": "2013-04-23T00:00:00",
+        "PageViews": "6890425",
+        "Visits": "2559623",
+        "UniqueVisitors": "2400252",
+        "BounceRate": "0.3743750926"
+    },
+    {
+        "date": "2013-04-24T00:00:00",
+        "PageViews": "6849326",
+        "Visits": "2558445",
+        "UniqueVisitors": "2403179",
+        "BounceRate": "0.3762046952"
+    },
+    {
+        "date": "2013-04-25T00:00:00",
+        "PageViews": "6753256",
+        "Visits": "2515893",
+        "UniqueVisitors": "2363827",
+        "BounceRate": "0.375429901"
+    },
+    {
+        "date": "2013-04-26T00:00:00",
+        "PageViews": "6522873",
+        "Visits": "2451274",
+        "UniqueVisitors": "2294760",
+        "BounceRate": "0.377937488"
+    },
+    {
+        "date": "2013-04-27T00:00:00",
+        "PageViews": "6629744",
+        "Visits": "2477404",
+        "UniqueVisitors": "2322441",
+        "BounceRate": "0.3709438845"
+    },
+    {
+        "date": "2013-04-28T00:00:00",
+        "PageViews": "6789114",
+        "Visits": "2518192",
+        "UniqueVisitors": "2361122",
+        "BounceRate": "0.3679672343"
+    },
+    {
+        "date": "2013-04-29T00:00:00",
+        "PageViews": "6849633",
+        "Visits": "2577507",
+        "UniqueVisitors": "2418714",
+        "BounceRate": "0.3782703228"
+    },
+    {
+        "date": "2013-04-30T00:00:00",
+        "PageViews": "6697675",
+        "Visits": "2518991",
+        "UniqueVisitors": "2369312",
+        "BounceRate": "0.3725227488"
+    },
+    {
+        "date": "2013-05-01T00:00:00",
+        "PageViews": "6648440",
+        "Visits": "2447799",
+        "UniqueVisitors": "2292408",
+        "BounceRate": "0.362093149"
+    },
+    {
+        "date": "2013-05-02T00:00:00",
+        "PageViews": "6981629",
+        "Visits": "2589860",
+        "UniqueVisitors": "2415497",
+        "BounceRate": "0.354111396"
+    },
+    {
+        "date": "2013-05-03T00:00:00",
+        "PageViews": "6882279",
+        "Visits": "2571954",
+        "UniqueVisitors": "2402861",
+        "BounceRate": "0.3533087202"
+    },
+    {
+        "date": "2013-05-04T00:00:00",
+        "PageViews": "6590177",
+        "Visits": "2446864",
+        "UniqueVisitors": "2287731",
+        "BounceRate": "0.3573423217"
+    },
+    {
+        "date": "2013-05-05T00:00:00",
+        "PageViews": "6410827",
+        "Visits": "2380510",
+        "UniqueVisitors": "2215594",
+        "BounceRate": "0.3621740415"
+    },
+    {
+        "date": "2013-05-06T00:00:00",
+        "PageViews": "6673637",
+        "Visits": "2499747",
+        "UniqueVisitors": "2332076",
+        "BounceRate": "0.3673944167"
+    },
+    {
+        "date": "2013-05-07T00:00:00",
+        "PageViews": "6773116",
+        "Visits": "2525999",
+        "UniqueVisitors": "2351493",
+        "BounceRate": "0.3652024441"
+    },
+    {
+        "date": "2013-05-08T00:00:00",
+        "PageViews": "6743269",
+        "Visits": "2539521",
+        "UniqueVisitors": "2373863",
+        "BounceRate": "0.3647718367"
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "PageViews": "6750921",
+        "Visits": "2532262",
+        "UniqueVisitors": "2361586",
+        "BounceRate": "0.3659072933"
+    },
+    {
+        "date": "2013-05-10T00:00:00",
+        "PageViews": "6376084",
+        "Visits": "2416088",
+        "UniqueVisitors": "2257124",
+        "BounceRate": "0.3689092691"
+    },
+    {
+        "date": "2013-05-11T00:00:00",
+        "PageViews": "6203086",
+        "Visits": "2349508",
+        "UniqueVisitors": "2186099",
+        "BounceRate": "0.3860364247"
+    },
+    {
+        "date": "2013-05-12T00:00:00",
+        "PageViews": "6265260",
+        "Visits": "2334627",
+        "UniqueVisitors": "2172914",
+        "BounceRate": "0.3690154503"
+    },
+    {
+        "date": "2013-05-13T00:00:00",
+        "PageViews": "6713089",
+        "Visits": "2530465",
+        "UniqueVisitors": "2357616",
+        "BounceRate": "0.3776680368"
+    },
+    {
+        "date": "2013-05-14T00:00:00",
+        "PageViews": "6724391",
+        "Visits": "2533460",
+        "UniqueVisitors": "2355072",
+        "BounceRate": "0.3795555253"
+    },
+    {
+        "date": "2013-05-15T00:00:00",
+        "PageViews": "6776549",
+        "Visits": "2535666",
+        "UniqueVisitors": "2358393",
+        "BounceRate": "0.3700913492"
+    },
+    {
+        "date": "2013-05-16T00:00:00",
+        "PageViews": "6813182",
+        "Visits": "2511159",
+        "UniqueVisitors": "2343072",
+        "BounceRate": "0.3574856243"
+    },
+    {
+        "date": "2013-05-17T00:00:00",
+        "PageViews": "6603576",
+        "Visits": "2439856",
+        "UniqueVisitors": "2275152",
+        "BounceRate": "0.3540104245"
+    },
+    {
+        "date": "2013-05-18T00:00:00",
+        "PageViews": "6482531",
+        "Visits": "2383297",
+        "UniqueVisitors": "2209159",
+        "BounceRate": "0.3500414032"
+    },
+    {
+        "date": "2013-05-19T00:00:00",
+        "PageViews": "6130128",
+        "Visits": "2249270",
+        "UniqueVisitors": "2092285",
+        "BounceRate": "0.3545033772"
+    },
+    {
+        "date": "2013-05-20T00:00:00",
+        "PageViews": "6909494",
+        "Visits": "2572061",
+        "UniqueVisitors": "2392686",
+        "BounceRate": "0.3599014983"
+    },
+    {
+        "date": "2013-05-21T00:00:00",
+        "PageViews": "6772343",
+        "Visits": "2541221",
+        "UniqueVisitors": "2372386",
+        "BounceRate": "0.3668010117"
+    },
+    {
+        "date": "2013-05-22T00:00:00",
+        "PageViews": "6874483",
+        "Visits": "2538771",
+        "UniqueVisitors": "2381715",
+        "BounceRate": "0.365359661"
+    },
+    {
+        "date": "2013-05-23T00:00:00",
+        "PageViews": "6725121",
+        "Visits": "2490439",
+        "UniqueVisitors": "2336949",
+        "BounceRate": "0.3676543025"
+    },
+    {
+        "date": "2013-05-24T00:00:00",
+        "PageViews": "6633173",
+        "Visits": "2443365",
+        "UniqueVisitors": "2294152",
+        "BounceRate": "0.3626343833"
+    },
+    {
+        "date": "2013-05-25T00:00:00",
+        "PageViews": "6390052",
+        "Visits": "2336822",
+        "UniqueVisitors": "2183750",
+        "BounceRate": "0.3609606814"
+    },
+    {
+        "date": "2013-05-26T00:00:00",
+        "PageViews": "6277699",
+        "Visits": "2299122",
+        "UniqueVisitors": "2149714",
+        "BounceRate": "0.3648663847"
+    },
+    {
+        "date": "2013-05-27T00:00:00",
+        "PageViews": "6727028",
+        "Visits": "2476319",
+        "UniqueVisitors": "2314808",
+        "BounceRate": "0.3689359602"
+    },
+    {
+        "date": "2013-05-28T00:00:00",
+        "PageViews": "6876257",
+        "Visits": "2555469",
+        "UniqueVisitors": "2395654",
+        "BounceRate": "0.3717024544"
+    },
+    {
+        "date": "2013-05-29T00:00:00",
+        "PageViews": "6959566",
+        "Visits": "2635079",
+        "UniqueVisitors": "2478664",
+        "BounceRate": "0.37342067"
+    },
+    {
+        "date": "2013-05-30T00:00:00",
+        "PageViews": "6937832",
+        "Visits": "2639793",
+        "UniqueVisitors": "2486878",
+        "BounceRate": "0.369867725"
+    },
+    {
+        "date": "2013-05-31T00:00:00",
+        "PageViews": "6467204",
+        "Visits": "2443961",
+        "UniqueVisitors": "2298011",
+        "BounceRate": "0.3753380138"
+    },
+    {
+        "date": "2013-06-01T00:00:00",
+        "PageViews": "6182440",
+        "Visits": "2265848",
+        "UniqueVisitors": "2124331",
+        "BounceRate": "0.3568922536"
+    },
+    {
+        "date": "2013-06-02T00:00:00",
+        "PageViews": "5432245",
+        "Visits": "1984546",
+        "UniqueVisitors": "1863325",
+        "BounceRate": "0.3619426056"
+    },
+    {
+        "date": "2013-06-03T00:00:00",
+        "PageViews": "6768135",
+        "Visits": "2489180",
+        "UniqueVisitors": "2330423",
+        "BounceRate": "0.361566509"
+    },
+    {
+        "date": "2013-06-04T00:00:00",
+        "PageViews": "7571095",
+        "Visits": "2842962",
+        "UniqueVisitors": "2645173",
+        "BounceRate": "0.358112645"
+    },
+    {
+        "date": "2013-06-05T00:00:00",
+        "PageViews": "7196547",
+        "Visits": "2671496",
+        "UniqueVisitors": "2489250",
+        "BounceRate": "0.3609291682"
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "PageViews": "7048290",
+        "Visits": "2591857",
+        "UniqueVisitors": "2410239",
+        "BounceRate": "0.360563573"
+    },
+    {
+        "date": "2013-06-07T00:00:00",
+        "PageViews": "6909487",
+        "Visits": "2521467",
+        "UniqueVisitors": "2344860",
+        "BounceRate": "0.3507739607"
+    },
+    {
+        "date": "2013-06-08T00:00:00",
+        "PageViews": "6707584",
+        "Visits": "2395375",
+        "UniqueVisitors": "2218265",
+        "BounceRate": "0.3495679033"
+    },
+    {
+        "date": "2013-06-09T00:00:00",
+        "PageViews": "6673138",
+        "Visits": "2391114",
+        "UniqueVisitors": "2215893",
+        "BounceRate": "0.353178755"
+    },
+    {
+        "date": "2013-06-10T00:00:00",
+        "PageViews": "7101845",
+        "Visits": "2590989",
+        "UniqueVisitors": "2413886",
+        "BounceRate": "0.3612222053"
+    },
+    {
+        "date": "2013-06-11T00:00:00",
+        "PageViews": "7153460",
+        "Visits": "2631925",
+        "UniqueVisitors": "2452718",
+        "BounceRate": "0.3619838984"
+    },
+    {
+        "date": "2013-06-12T00:00:00",
+        "PageViews": "7907077",
+        "Visits": "2846294",
+        "UniqueVisitors": "2563267",
+        "BounceRate": "0.3458832499"
+    },
+    {
+        "date": "2013-06-13T00:00:00",
+        "PageViews": "7834704",
+        "Visits": "2830417",
+        "UniqueVisitors": "2536827",
+        "BounceRate": "0.3457243911"
+    },
+    {
+        "date": "2013-06-14T00:00:00",
+        "PageViews": "7627405",
+        "Visits": "2753452",
+        "UniqueVisitors": "2453880",
+        "BounceRate": "0.3411777078"
+    },
+    {
+        "date": "2013-06-15T00:00:00",
+        "PageViews": "7396427",
+        "Visits": "2639304",
+        "UniqueVisitors": "2329563",
+        "BounceRate": "0.3408784217"
+    },
+    {
+        "date": "2013-06-16T00:00:00",
+        "PageViews": "7282233",
+        "Visits": "2582095",
+        "UniqueVisitors": "2279782",
+        "BounceRate": "0.3423158476"
+    },
+    {
+        "date": "2013-06-17T00:00:00",
+        "PageViews": "7966842",
+        "Visits": "2843638",
+        "UniqueVisitors": "2510761",
+        "BounceRate": "0.3448277684"
+    },
+    {
+        "date": "2013-06-18T00:00:00",
+        "PageViews": "8180443",
+        "Visits": "2916723",
+        "UniqueVisitors": "2546510",
+        "BounceRate": "0.346395772"
+    },
+    {
+        "date": "2013-06-19T00:00:00",
+        "PageViews": "8286678",
+        "Visits": "2909489",
+        "UniqueVisitors": "2535987",
+        "BounceRate": "0.3377609931"
+    },
+    {
+        "date": "2013-06-20T00:00:00",
+        "PageViews": "8228922",
+        "Visits": "2852113",
+        "UniqueVisitors": "2479532",
+        "BounceRate": "0.3340350408"
+    },
+    {
+        "date": "2013-06-21T00:00:00",
+        "PageViews": "7692527",
+        "Visits": "2700370",
+        "UniqueVisitors": "2374676",
+        "BounceRate": "0.3397728545"
+    },
+    {
+        "date": "2013-06-22T00:00:00",
+        "PageViews": "7469915",
+        "Visits": "2585955",
+        "UniqueVisitors": "2266316",
+        "BounceRate": "0.335391141"
+    },
+    {
+        "date": "2013-06-23T00:00:00",
+        "PageViews": "7356743",
+        "Visits": "2559244",
+        "UniqueVisitors": "2255201",
+        "BounceRate": "0.3371126497"
+    },
+    {
+        "date": "2013-06-24T00:00:00",
+        "PageViews": "7745659",
+        "Visits": "2726122",
+        "UniqueVisitors": "2412699",
+        "BounceRate": "0.345513694"
+    },
+    {
+        "date": "2013-06-25T00:00:00",
+        "PageViews": "7666709",
+        "Visits": "2735237",
+        "UniqueVisitors": "2443386",
+        "BounceRate": "0.3484849483"
+    },
+    {
+        "date": "2013-06-26T00:00:00",
+        "PageViews": "8067738",
+        "Visits": "2870799",
+        "UniqueVisitors": "2588107",
+        "BounceRate": "0.3471835971"
+    },
+    {
+        "date": "2013-06-27T00:00:00",
+        "PageViews": "7465491",
+        "Visits": "2765505",
+        "UniqueVisitors": "2578395",
+        "BounceRate": "0.3644058987"
+    },
+    {
+        "date": "2013-06-28T00:00:00",
+        "PageViews": "7363695",
+        "Visits": "2673892",
+        "UniqueVisitors": "2495359",
+        "BounceRate": "0.3525439782"
+    },
+    {
+        "date": "2013-06-29T00:00:00",
+        "PageViews": "7527605",
+        "Visits": "2705349",
+        "UniqueVisitors": "2531069",
+        "BounceRate": "0.339546298"
+    },
+    {
+        "date": "2013-06-30T00:00:00",
+        "PageViews": "6643301",
+        "Visits": "2410576",
+        "UniqueVisitors": "2261481",
+        "BounceRate": "0.3485707517"
+    },
+    {
+        "date": "2013-07-01T00:00:00",
+        "PageViews": "7929346",
+        "Visits": "2797925",
+        "UniqueVisitors": "2594862",
+        "BounceRate": "0.3475141127"
+    },
+    {
+        "date": "2013-07-02T00:00:00",
+        "PageViews": "7885013",
+        "Visits": "2774379",
+        "UniqueVisitors": "2569741",
+        "BounceRate": "0.3467228894"
+    },
+    {
+        "date": "2013-07-03T00:00:00",
+        "PageViews": "7671951",
+        "Visits": "2731817",
+        "UniqueVisitors": "2533186",
+        "BounceRate": "0.3544144152"
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "PageViews": "7537836",
+        "Visits": "2647495",
+        "UniqueVisitors": "2452306",
+        "BounceRate": "0.3679828912"
+    },
+    {
+        "date": "2013-07-05T00:00:00",
+        "PageViews": "7375810",
+        "Visits": "2585045",
+        "UniqueVisitors": "2392272",
+        "BounceRate": "0.3707461828"
+    },
+    {
+        "date": "2013-07-06T00:00:00",
+        "PageViews": "7351189",
+        "Visits": "2476292",
+        "UniqueVisitors": "2285569",
+        "BounceRate": "0.3657472305"
+    },
+    {
+        "date": "2013-07-07T00:00:00",
+        "PageViews": "7345353",
+        "Visits": "2505794",
+        "UniqueVisitors": "2314662",
+        "BounceRate": "0.3667171862"
+    },
+    {
+        "date": "2013-07-08T00:00:00",
+        "PageViews": "7838747",
+        "Visits": "2693525",
+        "UniqueVisitors": "2495531",
+        "BounceRate": "0.3719340404"
+    },
+    {
+        "date": "2013-07-09T00:00:00",
+        "PageViews": "7304772",
+        "Visits": "2638935",
+        "UniqueVisitors": "2462284",
+        "BounceRate": "0.3636087564"
+    },
+    {
+        "date": "2013-07-10T00:00:00",
+        "PageViews": "7365031",
+        "Visits": "2668366",
+        "UniqueVisitors": "2476351",
+        "BounceRate": "0.364898896"
+    },
+    {
+        "date": "2013-07-11T00:00:00",
+        "PageViews": "7075109",
+        "Visits": "2564147",
+        "UniqueVisitors": "2385694",
+        "BounceRate": "0.3684629194"
+    },
+    {
+        "date": "2013-07-12T00:00:00",
+        "PageViews": "6788796",
+        "Visits": "2460154",
+        "UniqueVisitors": "2295416",
+        "BounceRate": "0.3732918422"
+    },
+    {
+        "date": "2013-07-13T00:00:00",
+        "PageViews": "6489889",
+        "Visits": "2326710",
+        "UniqueVisitors": "2166542",
+        "BounceRate": "0.3619751285"
+    },
+    {
+        "date": "2013-07-14T00:00:00",
+        "PageViews": "6460742",
+        "Visits": "2312338",
+        "UniqueVisitors": "2151327",
+        "BounceRate": "0.3638124145"
+    },
+    {
+        "date": "2013-07-15T00:00:00",
+        "PageViews": "6838364",
+        "Visits": "2486803",
+        "UniqueVisitors": "2324530",
+        "BounceRate": "0.3670474489"
+    },
+    {
+        "date": "2013-07-16T00:00:00",
+        "PageViews": "6882823",
+        "Visits": "2502696",
+        "UniqueVisitors": "2326851",
+        "BounceRate": "0.3665848318"
+    },
+    {
+        "date": "2013-07-17T00:00:00",
+        "PageViews": "6949170",
+        "Visits": "2506180",
+        "UniqueVisitors": "2333217",
+        "BounceRate": "0.3646026895"
+    },
+    {
+        "date": "2013-07-18T00:00:00",
+        "PageViews": "6891477",
+        "Visits": "2486440",
+        "UniqueVisitors": "2313564",
+        "BounceRate": "0.3632046394"
+    },
+    {
+        "date": "2013-07-19T00:00:00",
+        "PageViews": "6763667",
+        "Visits": "2433206",
+        "UniqueVisitors": "2264520",
+        "BounceRate": "0.359579886"
+    },
+    {
+        "date": "2013-07-20T00:00:00",
+        "PageViews": "6563212",
+        "Visits": "2334441",
+        "UniqueVisitors": "2161446",
+        "BounceRate": "0.3587869112"
+    },
+    {
+        "date": "2013-07-21T00:00:00",
+        "PageViews": "6539120",
+        "Visits": "2341986",
+        "UniqueVisitors": "2179267",
+        "BounceRate": "0.3624468009"
+    },
+    {
+        "date": "2013-07-22T00:00:00",
+        "PageViews": "7019481",
+        "Visits": "2566798",
+        "UniqueVisitors": "2396527",
+        "BounceRate": "0.3661815403"
+    },
+    {
+        "date": "2013-07-23T00:00:00",
+        "PageViews": "7021104",
+        "Visits": "2563540",
+        "UniqueVisitors": "2390329",
+        "BounceRate": "0.3644920216"
+    },
+    {
+        "date": "2013-07-24T00:00:00",
+        "PageViews": "7047370",
+        "Visits": "2573745",
+        "UniqueVisitors": "2398648",
+        "BounceRate": "0.3665133487"
+    },
+    {
+        "date": "2013-07-25T00:00:00",
+        "PageViews": "6834564",
+        "Visits": "2489820",
+        "UniqueVisitors": "2327536",
+        "BounceRate": "0.3627517522"
+    },
+    {
+        "date": "2013-07-26T00:00:00",
+        "PageViews": "7190475",
+        "Visits": "2573873",
+        "UniqueVisitors": "2390240",
+        "BounceRate": "0.3545327463"
+    },
+    {
+        "date": "2013-07-27T00:00:00",
+        "PageViews": "8473920",
+        "Visits": "3015165",
+        "UniqueVisitors": "2675817",
+        "BounceRate": "0.3531739797"
+    },
+    {
+        "date": "2013-07-28T00:00:00",
+        "PageViews": "8998289",
+        "Visits": "3121893",
+        "UniqueVisitors": "2782778",
+        "BounceRate": "0.331693426"
+    },
+    {
+        "date": "2013-07-29T00:00:00",
+        "PageViews": "10238772",
+        "Visits": "3552039",
+        "UniqueVisitors": "3115511",
+        "BounceRate": "0.3304935198"
+    },
+    {
+        "date": "2013-07-30T00:00:00",
+        "PageViews": "11095410",
+        "Visits": "3915140",
+        "UniqueVisitors": "3491933",
+        "BounceRate": "0.3334172856"
+    },
+    {
+        "date": "2013-07-31T00:00:00",
+        "PageViews": "16029384",
+        "Visits": "4655110",
+        "UniqueVisitors": "4115821",
+        "BounceRate": "0.3324171246"
+    },
+    {
+        "date": "2013-08-01T00:00:00",
+        "PageViews": "7301008",
+        "Visits": "2515658",
+        "UniqueVisitors": "2340704",
+        "BounceRate": "0.3179746804"
+    },
+    {
+        "date": "2013-08-02T00:00:00",
+        "PageViews": "6841732",
+        "Visits": "2443533",
+        "UniqueVisitors": "2255464",
+        "BounceRate": "0.3148641267"
+    },
+    {
+        "date": "2013-08-03T00:00:00",
+        "PageViews": "6635391",
+        "Visits": "2336176",
+        "UniqueVisitors": "2141020",
+        "BounceRate": "0.3097223175"
+    },
+    {
+        "date": "2013-08-04T00:00:00",
+        "PageViews": "6275562",
+        "Visits": "2232013",
+        "UniqueVisitors": "2060451",
+        "BounceRate": "0.3143764207"
+    },
+    {
+        "date": "2013-08-05T00:00:00",
+        "PageViews": "6786772",
+        "Visits": "2452588",
+        "UniqueVisitors": "2278883",
+        "BounceRate": "0.3192572376"
+    },
+    {
+        "date": "2013-08-06T00:00:00",
+        "PageViews": "6929413",
+        "Visits": "2513513",
+        "UniqueVisitors": "2319088",
+        "BounceRate": "0.3209603627"
+    },
+    {
+        "date": "2013-08-07T00:00:00",
+        "PageViews": "6878242",
+        "Visits": "2476718",
+        "UniqueVisitors": "2281938",
+        "BounceRate": "0.3188750322"
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "PageViews": "6914533",
+        "Visits": "2503641",
+        "UniqueVisitors": "2312909",
+        "BounceRate": "0.3230147558"
+    },
+    {
+        "date": "2013-08-09T00:00:00",
+        "PageViews": "6568652",
+        "Visits": "2378801",
+        "UniqueVisitors": "2209352",
+        "BounceRate": "0.3156067547"
+    },
+    {
+        "date": "2013-08-10T00:00:00",
+        "PageViews": "6468140",
+        "Visits": "2297340",
+        "UniqueVisitors": "2113774",
+        "BounceRate": "0.3096907894"
+    },
+    {
+        "date": "2013-08-11T00:00:00",
+        "PageViews": "6543050",
+        "Visits": "2337351",
+        "UniqueVisitors": "2155314",
+        "BounceRate": "0.3134680765"
+    },
+    {
+        "date": "2013-08-12T00:00:00",
+        "PageViews": "6927015",
+        "Visits": "2528600",
+        "UniqueVisitors": "2345232",
+        "BounceRate": "0.3186438891"
+    },
+    {
+        "date": "2013-08-13T00:00:00",
+        "PageViews": "7091782",
+        "Visits": "2599059",
+        "UniqueVisitors": "2411100",
+        "BounceRate": "0.317927945"
+    },
+    {
+        "date": "2013-08-14T00:00:00",
+        "PageViews": "7029545",
+        "Visits": "2581481",
+        "UniqueVisitors": "2392706",
+        "BounceRate": "0.3201304262"
+    },
+    {
+        "date": "2013-08-15T00:00:00",
+        "PageViews": "6912089",
+        "Visits": "2524570",
+        "UniqueVisitors": "2339525",
+        "BounceRate": "0.3188299512"
+    },
+    {
+        "date": "2013-08-16T00:00:00",
+        "PageViews": "6758164",
+        "Visits": "2459214",
+        "UniqueVisitors": "2278535",
+        "BounceRate": "0.3164649275"
+    },
+    {
+        "date": "2013-08-17T00:00:00",
+        "PageViews": "6565334",
+        "Visits": "2356753",
+        "UniqueVisitors": "2181055",
+        "BounceRate": "0.3147306358"
+    },
+    {
+        "date": "2013-08-18T00:00:00",
+        "PageViews": "6640062",
+        "Visits": "2381599",
+        "UniqueVisitors": "2205983",
+        "BounceRate": "0.3146964217"
+    },
+    {
+        "date": "2013-08-19T00:00:00",
+        "PageViews": "6939973",
+        "Visits": "2526697",
+        "UniqueVisitors": "2356333",
+        "BounceRate": "0.3199023852"
+    },
+    {
+        "date": "2013-08-20T00:00:00",
+        "PageViews": "6938882",
+        "Visits": "2532543",
+        "UniqueVisitors": "2355431",
+        "BounceRate": "0.3202350584"
+    },
+    {
+        "date": "2013-08-21T00:00:00",
+        "PageViews": "7621250",
+        "Visits": "2780359",
+        "UniqueVisitors": "2587980",
+        "BounceRate": "0.305178382"
+    },
+    {
+        "date": "2013-08-22T00:00:00",
+        "PageViews": "7050772",
+        "Visits": "2577828",
+        "UniqueVisitors": "2387300",
+        "BounceRate": "0.3128601787"
+    },
+    {
+        "date": "2013-08-23T00:00:00",
+        "PageViews": "6790188",
+        "Visits": "2475273",
+        "UniqueVisitors": "2297542",
+        "BounceRate": "0.3124066392"
+    },
+    {
+        "date": "2013-08-24T00:00:00",
+        "PageViews": "6412337",
+        "Visits": "2330452",
+        "UniqueVisitors": "2179874",
+        "BounceRate": "0.3099432955"
+    },
+    {
+        "date": "2013-08-25T00:00:00",
+        "PageViews": "6458653",
+        "Visits": "2351515",
+        "UniqueVisitors": "2196999",
+        "BounceRate": "0.3146806403"
+    },
+    {
+        "date": "2013-08-26T00:00:00",
+        "PageViews": "6809788",
+        "Visits": "2538889",
+        "UniqueVisitors": "2382131",
+        "BounceRate": "0.3249969323"
+    },
+    {
+        "date": "2013-08-27T00:00:00",
+        "PageViews": "6910053",
+        "Visits": "2602343",
+        "UniqueVisitors": "2444862",
+        "BounceRate": "0.3271260053"
+    },
+    {
+        "date": "2013-08-28T00:00:00",
+        "PageViews": "7350707",
+        "Visits": "2754143",
+        "UniqueVisitors": "2589572",
+        "BounceRate": "0.3162597539"
+    },
+    {
+        "date": "2013-08-29T00:00:00",
+        "PageViews": "7059101",
+        "Visits": "2646051",
+        "UniqueVisitors": "2480418",
+        "BounceRate": "0.32399631"
+    },
+    {
+        "date": "2013-08-30T00:00:00",
+        "PageViews": "6632944",
+        "Visits": "2499995",
+        "UniqueVisitors": "2346815",
+        "BounceRate": "0.3235260181"
+    },
+    {
+        "date": "2013-08-31T00:00:00",
+        "PageViews": "6544468",
+        "Visits": "2437282",
+        "UniqueVisitors": "2275305",
+        "BounceRate": "0.3243779822"
+    },
+    {
+        "date": "2013-09-01T00:00:00",
+        "PageViews": "6293095",
+        "Visits": "2336922",
+        "UniqueVisitors": "2187964",
+        "BounceRate": "0.3143575189"
+    },
+    {
+        "date": "2013-09-02T00:00:00",
+        "PageViews": "6884045",
+        "Visits": "2572279",
+        "UniqueVisitors": "2413698",
+        "BounceRate": "0.3170940343"
+    },
+    {
+        "date": "2013-09-03T00:00:00",
+        "PageViews": "6826970",
+        "Visits": "2595026",
+        "UniqueVisitors": "2440885",
+        "BounceRate": "0.3239437598"
+    },
+    {
+        "date": "2013-09-04T00:00:00",
+        "PageViews": "6857345",
+        "Visits": "2620433",
+        "UniqueVisitors": "2458014",
+        "BounceRate": "0.331182531"
+    },
+    {
+        "date": "2013-09-05T00:00:00",
+        "PageViews": "6909903",
+        "Visits": "2632155",
+        "UniqueVisitors": "2473210",
+        "BounceRate": "0.327190911"
+    },
+    {
+        "date": "2013-09-06T00:00:00",
+        "PageViews": "6633419",
+        "Visits": "2490072",
+        "UniqueVisitors": "2342912",
+        "BounceRate": "0.3261226422"
+    },
+    {
+        "date": "2013-09-07T00:00:00",
+        "PageViews": "6554358",
+        "Visits": "2431317",
+        "UniqueVisitors": "2280089",
+        "BounceRate": "0.3228165458"
+    },
+    {
+        "date": "2013-09-08T00:00:00",
+        "PageViews": "6606952",
+        "Visits": "2451233",
+        "UniqueVisitors": "2299892",
+        "BounceRate": "0.3247356454"
+    },
+    {
+        "date": "2013-09-09T00:00:00",
+        "PageViews": "6766375",
+        "Visits": "2541736",
+        "UniqueVisitors": "2393393",
+        "BounceRate": "0.328083006"
+    },
+    {
+        "date": "2013-09-10T00:00:00",
+        "PageViews": "6731760",
+        "Visits": "2531468",
+        "UniqueVisitors": "2382082",
+        "BounceRate": "0.3282399892"
+    },
+    {
+        "date": "2013-09-11T00:00:00",
+        "PageViews": "6824852",
+        "Visits": "2559085",
+        "UniqueVisitors": "2408184",
+        "BounceRate": "0.3227850107"
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "PageViews": "6787494",
+        "Visits": "2556531",
+        "UniqueVisitors": "2405600",
+        "BounceRate": "0.32436078"
+    },
+    {
+        "date": "2013-09-13T00:00:00",
+        "PageViews": "6690381",
+        "Visits": "2513937",
+        "UniqueVisitors": "2364793",
+        "BounceRate": "0.3205141892"
+    },
+    {
+        "date": "2013-09-14T00:00:00",
+        "PageViews": "6492402",
+        "Visits": "2411626",
+        "UniqueVisitors": "2260105",
+        "BounceRate": "0.3154443895"
+    },
+    {
+        "date": "2013-09-15T00:00:00",
+        "PageViews": "6517251",
+        "Visits": "2410584",
+        "UniqueVisitors": "2259915",
+        "BounceRate": "0.3186592826"
+    },
+    {
+        "date": "2013-09-16T00:00:00",
+        "PageViews": "6598486",
+        "Visits": "2488486",
+        "UniqueVisitors": "2340774",
+        "BounceRate": "0.32669797"
+    },
+    {
+        "date": "2013-09-17T00:00:00",
+        "PageViews": "6639240",
+        "Visits": "2503687",
+        "UniqueVisitors": "2356434",
+        "BounceRate": "0.3241562799"
+    },
+    {
+        "date": "2013-09-18T00:00:00",
+        "PageViews": "6796364",
+        "Visits": "2558900",
+        "UniqueVisitors": "2408041",
+        "BounceRate": "0.3170098704"
+    },
+    {
+        "date": "2013-09-19T00:00:00",
+        "PageViews": "7474921",
+        "Visits": "2780864",
+        "UniqueVisitors": "2616815",
+        "BounceRate": "0.3033646923"
+    },
+    {
+        "date": "2013-09-20T00:00:00",
+        "PageViews": "7188828",
+        "Visits": "2682437",
+        "UniqueVisitors": "2522530",
+        "BounceRate": "0.3023090493"
+    },
+    {
+        "date": "2013-09-21T00:00:00",
+        "PageViews": "7046927",
+        "Visits": "2605564",
+        "UniqueVisitors": "2441930",
+        "BounceRate": "0.3034885808"
+    },
+    {
+        "date": "2013-09-22T00:00:00",
+        "PageViews": "7007860",
+        "Visits": "2586723",
+        "UniqueVisitors": "2425303",
+        "BounceRate": "0.3057093027"
+    },
+    {
+        "date": "2013-09-23T00:00:00",
+        "PageViews": "7027070",
+        "Visits": "2643253",
+        "UniqueVisitors": "2486942",
+        "BounceRate": "0.3151158076"
+    },
+    {
+        "date": "2013-09-24T00:00:00",
+        "PageViews": "6905407",
+        "Visits": "2610241",
+        "UniqueVisitors": "2457743",
+        "BounceRate": "0.3192007894"
+    },
+    {
+        "date": "2013-09-25T00:00:00",
+        "PageViews": "7083647",
+        "Visits": "2677981",
+        "UniqueVisitors": "2523378",
+        "BounceRate": "0.3271563616"
+    },
+    {
+        "date": "2013-09-26T00:00:00",
+        "PageViews": "6929015",
+        "Visits": "2612360",
+        "UniqueVisitors": "2463776",
+        "BounceRate": "0.3557563037"
+    },
+    {
+        "date": "2013-09-27T00:00:00",
+        "PageViews": "6432988",
+        "Visits": "2413902",
+        "UniqueVisitors": "2272811",
+        "BounceRate": "0.3520022041"
+    },
+    {
+        "date": "2013-09-28T00:00:00",
+        "PageViews": "6202216",
+        "Visits": "2320965",
+        "UniqueVisitors": "2177058",
+        "BounceRate": "0.3560149955"
+    },
+    {
+        "date": "2013-09-29T00:00:00",
+        "PageViews": "6154148",
+        "Visits": "2297792",
+        "UniqueVisitors": "2156053",
+        "BounceRate": "0.3596499754"
+    },
+    {
+        "date": "2013-09-30T00:00:00",
+        "PageViews": "6230659",
+        "Visits": "2374289",
+        "UniqueVisitors": "2235726",
+        "BounceRate": "0.3656511179"
+    },
+    {
+        "date": "2013-10-01T00:00:00",
+        "PageViews": "6546956",
+        "Visits": "2444696",
+        "UniqueVisitors": "2300632",
+        "BounceRate": "0.3548052233"
+    },
+    {
+        "date": "2013-10-02T00:00:00",
+        "PageViews": "6667735",
+        "Visits": "2485521",
+        "UniqueVisitors": "2337583",
+        "BounceRate": "0.354334497"
+    },
+    {
+        "date": "2013-10-03T00:00:00",
+        "PageViews": "6399097",
+        "Visits": "2417021",
+        "UniqueVisitors": "2275587",
+        "BounceRate": "0.3648280934"
+    },
+    {
+        "date": "2013-10-04T00:00:00",
+        "PageViews": "6268505",
+        "Visits": "2374294",
+        "UniqueVisitors": "2234729",
+        "BounceRate": "0.3600807492"
+    },
+    {
+        "date": "2013-10-05T00:00:00",
+        "PageViews": "6166819",
+        "Visits": "2296462",
+        "UniqueVisitors": "2153569",
+        "BounceRate": "0.3591627188"
+    },
+    {
+        "date": "2013-10-06T00:00:00",
+        "PageViews": "6160695",
+        "Visits": "2306593",
+        "UniqueVisitors": "2163591",
+        "BounceRate": "0.3646074777"
+    },
+    {
+        "date": "2013-10-07T00:00:00",
+        "PageViews": "6281428",
+        "Visits": "2390275",
+        "UniqueVisitors": "2251916",
+        "BounceRate": "0.3710794846"
+    },
+    {
+        "date": "2013-10-08T00:00:00",
+        "PageViews": "6582477",
+        "Visits": "2480595",
+        "UniqueVisitors": "2334008",
+        "BounceRate": "0.3644646566"
+    },
+    {
+        "date": "2013-10-09T00:00:00",
+        "PageViews": "6521947",
+        "Visits": "2477603",
+        "UniqueVisitors": "2332257",
+        "BounceRate": "0.3624175777"
+    },
+    {
+        "date": "2013-10-10T00:00:00",
+        "PageViews": "6292933",
+        "Visits": "2402139",
+        "UniqueVisitors": "2261989",
+        "BounceRate": "0.3636949229"
+    },
+    {
+        "date": "2013-10-11T00:00:00",
+        "PageViews": "6065707",
+        "Visits": "2328245",
+        "UniqueVisitors": "2189530",
+        "BounceRate": "0.3696446453"
+    },
+    {
+        "date": "2013-10-12T00:00:00",
+        "PageViews": "6094185",
+        "Visits": "2323100",
+        "UniqueVisitors": "2177294",
+        "BounceRate": "0.3633443785"
+    },
+    {
+        "date": "2013-10-13T00:00:00",
+        "PageViews": "6062171",
+        "Visits": "2299563",
+        "UniqueVisitors": "2155504",
+        "BounceRate": "0.3697308253"
+    },
+    {
+        "date": "2013-10-14T00:00:00",
+        "PageViews": "6100695",
+        "Visits": "2354625",
+        "UniqueVisitors": "2212973",
+        "BounceRate": "0.3766767947"
+    },
+    {
+        "date": "2013-10-15T00:00:00",
+        "PageViews": "6134436",
+        "Visits": "2357752",
+        "UniqueVisitors": "2218493",
+        "BounceRate": "0.3733424119"
+    },
+    {
+        "date": "2013-10-16T00:00:00",
+        "PageViews": "6669924",
+        "Visits": "2502207",
+        "UniqueVisitors": "2355054",
+        "BounceRate": "0.3600661673"
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "PageViews": "7893155",
+        "Visits": "2848996",
+        "UniqueVisitors": "2681620",
+        "BounceRate": "0.3345758343"
+    },
+    {
+        "date": "2013-10-18T00:00:00",
+        "PageViews": "7493849",
+        "Visits": "2670963",
+        "UniqueVisitors": "2511683",
+        "BounceRate": "0.3410654966"
+    },
+    {
+        "date": "2013-10-19T00:00:00",
+        "PageViews": "7207502",
+        "Visits": "2567552",
+        "UniqueVisitors": "2407624",
+        "BounceRate": "0.341986901"
+    },
+    {
+        "date": "2013-10-20T00:00:00",
+        "PageViews": "7180876",
+        "Visits": "2556040",
+        "UniqueVisitors": "2398221",
+        "BounceRate": "0.3424738043"
+    },
+    {
+        "date": "2013-10-21T00:00:00",
+        "PageViews": "7460000",
+        "Visits": "2699311",
+        "UniqueVisitors": "2539732",
+        "BounceRate": "0.3485280511"
+    },
+    {
+        "date": "2013-10-22T00:00:00",
+        "PageViews": "7281094",
+        "Visits": "2647106",
+        "UniqueVisitors": "2491350",
+        "BounceRate": "0.35413904"
+    },
+    {
+        "date": "2013-10-23T00:00:00",
+        "PageViews": "7179190",
+        "Visits": "2598700",
+        "UniqueVisitors": "2445763",
+        "BounceRate": "0.3550564906"
+    },
+    {
+        "date": "2013-10-24T00:00:00",
+        "PageViews": "7229263",
+        "Visits": "2590842",
+        "UniqueVisitors": "2439947",
+        "BounceRate": "0.3515943134"
+    },
+    {
+        "date": "2013-10-25T00:00:00",
+        "PageViews": "7053819",
+        "Visits": "2521043",
+        "UniqueVisitors": "2373563",
+        "BounceRate": "0.3471924618"
+    },
+    {
+        "date": "2013-10-26T00:00:00",
+        "PageViews": "6905246",
+        "Visits": "2445287",
+        "UniqueVisitors": "2293702",
+        "BounceRate": "0.3459793765"
+    },
+    {
+        "date": "2013-10-27T00:00:00",
+        "PageViews": "7051944",
+        "Visits": "2490673",
+        "UniqueVisitors": "2336234",
+        "BounceRate": "0.3461354586"
+    },
+    {
+        "date": "2013-10-28T00:00:00",
+        "PageViews": "7234844",
+        "Visits": "2629877",
+        "UniqueVisitors": "2477602",
+        "BounceRate": "0.35447639"
+    },
+    {
+        "date": "2013-10-29T00:00:00",
+        "PageViews": "7271847",
+        "Visits": "2669285",
+        "UniqueVisitors": "2514528",
+        "BounceRate": "0.3548506426"
+    },
+    {
+        "date": "2013-10-30T00:00:00",
+        "PageViews": "7255222",
+        "Visits": "2618337",
+        "UniqueVisitors": "2466117",
+        "BounceRate": "0.3526759059"
+    },
+    {
+        "date": "2013-10-31T00:00:00",
+        "PageViews": "6767188",
+        "Visits": "2446048",
+        "UniqueVisitors": "2304000",
+        "BounceRate": "0.3556406567"
+    },
+    {
+        "date": "2013-11-01T00:00:00",
+        "PageViews": "6756389",
+        "Visits": "2421294",
+        "UniqueVisitors": "2279686",
+        "BounceRate": "0.3522195389"
+    },
+    {
+        "date": "2013-11-02T00:00:00",
+        "PageViews": "6485102",
+        "Visits": "2308671",
+        "UniqueVisitors": "2169485",
+        "BounceRate": "0.3483858849"
+    },
+    {
+        "date": "2013-11-03T00:00:00",
+        "PageViews": "6708890",
+        "Visits": "2381785",
+        "UniqueVisitors": "2238764",
+        "BounceRate": "0.3491548114"
+    },
+    {
+        "date": "2013-11-04T00:00:00",
+        "PageViews": "7043764",
+        "Visits": "2545239",
+        "UniqueVisitors": "2406290",
+        "BounceRate": "0.3423934318"
+    },
+    {
+        "date": "2013-11-05T00:00:00",
+        "PageViews": "6963136",
+        "Visits": "2505876",
+        "UniqueVisitors": "2365903",
+        "BounceRate": "0.3419813347"
+    },
+    {
+        "date": "2013-11-06T00:00:00",
+        "PageViews": "6834764",
+        "Visits": "2460706",
+        "UniqueVisitors": "2321041",
+        "BounceRate": "0.3482918732"
+    },
+    {
+        "date": "2013-11-07T00:00:00",
+        "PageViews": "6779846",
+        "Visits": "2482399",
+        "UniqueVisitors": "2338444",
+        "BounceRate": "0.3573611376"
+    },
+    {
+        "date": "2013-11-08T00:00:00",
+        "PageViews": "6444950",
+        "Visits": "2294680",
+        "UniqueVisitors": "2162927",
+        "BounceRate": "0.344578207"
+    },
+    {
+        "date": "2013-11-09T00:00:00",
+        "PageViews": "6350122",
+        "Visits": "2252700",
+        "UniqueVisitors": "2116132",
+        "BounceRate": "0.3453863545"
+    },
+    {
+        "date": "2013-11-10T00:00:00",
+        "PageViews": "6226597",
+        "Visits": "2231957",
+        "UniqueVisitors": "2100195",
+        "BounceRate": "0.350147722"
+    },
+    {
+        "date": "2013-11-11T00:00:00",
+        "PageViews": "6539947",
+        "Visits": "2331617",
+        "UniqueVisitors": "2198954",
+        "BounceRate": "0.3508372012"
+    },
+    {
+        "date": "2013-11-12T00:00:00",
+        "PageViews": "6578833",
+        "Visits": "2357679",
+        "UniqueVisitors": "2223952",
+        "BounceRate": "0.3523311065"
+    },
+    {
+        "date": "2013-11-13T00:00:00",
+        "PageViews": "6592679",
+        "Visits": "2358884",
+        "UniqueVisitors": "2223926",
+        "BounceRate": "0.3508961512"
+    },
+    {
+        "date": "2013-11-14T00:00:00",
+        "PageViews": "6614595",
+        "Visits": "2367183",
+        "UniqueVisitors": "2230115",
+        "BounceRate": "0.3486348966"
+    },
+    {
+        "date": "2013-11-15T00:00:00",
+        "PageViews": "6341212",
+        "Visits": "2288998",
+        "UniqueVisitors": "2157664",
+        "BounceRate": "0.3488806982"
+    },
+    {
+        "date": "2013-11-16T00:00:00",
+        "PageViews": "6419695",
+        "Visits": "2296229",
+        "UniqueVisitors": "2157840",
+        "BounceRate": "0.3449022205"
+    },
+    {
+        "date": "2013-11-17T00:00:00",
+        "PageViews": "6427164",
+        "Visits": "2296866",
+        "UniqueVisitors": "2160130",
+        "BounceRate": "0.3486058252"
+    },
+    {
+        "date": "2013-11-18T00:00:00",
+        "PageViews": "6245267",
+        "Visits": "2271659",
+        "UniqueVisitors": "2145749",
+        "BounceRate": "0.3589135636"
+    },
+    {
+        "date": "2013-11-19T00:00:00",
+        "PageViews": "6436675",
+        "Visits": "2334580",
+        "UniqueVisitors": "2204683",
+        "BounceRate": "0.3522804931"
+    },
+    {
+        "date": "2013-11-20T00:00:00",
+        "PageViews": "6395172",
+        "Visits": "2373365",
+        "UniqueVisitors": "2243394",
+        "BounceRate": "0.3504716063"
+    },
+    {
+        "date": "2013-11-21T00:00:00",
+        "PageViews": "6270684",
+        "Visits": "2329253",
+        "UniqueVisitors": "2201367",
+        "BounceRate": "0.348709355"
+    },
+    {
+        "date": "2013-11-22T00:00:00",
+        "PageViews": "6136617",
+        "Visits": "2293757",
+        "UniqueVisitors": "2164601",
+        "BounceRate": "0.3445988311"
+    },
+    {
+        "date": "2013-11-23T00:00:00",
+        "PageViews": "6143325",
+        "Visits": "2243553",
+        "UniqueVisitors": "2110810",
+        "BounceRate": "0.340078602"
+    },
+    {
+        "date": "2013-11-24T00:00:00",
+        "PageViews": "6078052",
+        "Visits": "2224926",
+        "UniqueVisitors": "2095659",
+        "BounceRate": "0.3439138194"
+    },
+    {
+        "date": "2013-11-25T00:00:00",
+        "PageViews": "6491124",
+        "Visits": "2436725",
+        "UniqueVisitors": "2301992",
+        "BounceRate": "0.3403119026"
+    },
+    {
+        "date": "2013-11-26T00:00:00",
+        "PageViews": "6497860",
+        "Visits": "2442011",
+        "UniqueVisitors": "2306607",
+        "BounceRate": "0.3429875154"
+    },
+    {
+        "date": "2013-11-27T00:00:00",
+        "PageViews": "6564515",
+        "Visits": "2463662",
+        "UniqueVisitors": "2329853",
+        "BounceRate": "0.3427913115"
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "PageViews": "6209372",
+        "Visits": "2326077",
+        "UniqueVisitors": "2196559",
+        "BounceRate": "0.3458635446"
+    },
+    {
+        "date": "2013-11-29T00:00:00",
+        "PageViews": "6220282",
+        "Visits": "2311837",
+        "UniqueVisitors": "2178513",
+        "BounceRate": "0.3495818728"
+    },
+    {
+        "date": "2013-11-30T00:00:00",
+        "PageViews": "6207851",
+        "Visits": "2289269",
+        "UniqueVisitors": "2152306",
+        "BounceRate": "0.34676269"
+    },
+    {
+        "date": "2013-12-01T00:00:00",
+        "PageViews": "6202120",
+        "Visits": "2284696",
+        "UniqueVisitors": "2150198",
+        "BounceRate": "0.3500549133"
+    },
+    {
+        "date": "2013-12-02T00:00:00",
+        "PageViews": "6234554",
+        "Visits": "2343941",
+        "UniqueVisitors": "2214093",
+        "BounceRate": "0.360339004"
+    },
+    {
+        "date": "2013-12-03T00:00:00",
+        "PageViews": "6265101",
+        "Visits": "2359284",
+        "UniqueVisitors": "2229496",
+        "BounceRate": "0.3615460279"
+    },
+    {
+        "date": "2013-12-04T00:00:00",
+        "PageViews": "6868631",
+        "Visits": "2605502",
+        "UniqueVisitors": "2453625",
+        "BounceRate": "0.3408088811"
+    },
+    {
+        "date": "2013-12-05T00:00:00",
+        "PageViews": "6315869",
+        "Visits": "2397463",
+        "UniqueVisitors": "2263122",
+        "BounceRate": "0.3535183682"
+    },
+    {
+        "date": "2013-12-06T00:00:00",
+        "PageViews": "6149896",
+        "Visits": "2341784",
+        "UniqueVisitors": "2210115",
+        "BounceRate": "0.35182905"
+    },
+    {
+        "date": "2013-12-07T00:00:00",
+        "PageViews": "6167949",
+        "Visits": "2319202",
+        "UniqueVisitors": "2181913",
+        "BounceRate": "0.3480923468"
+    },
+    {
+        "date": "2013-12-08T00:00:00",
+        "PageViews": "6085308",
+        "Visits": "2290290",
+        "UniqueVisitors": "2157527",
+        "BounceRate": "0.3514078618"
+    },
+    {
+        "date": "2013-12-09T00:00:00",
+        "PageViews": "6199619",
+        "Visits": "2363969",
+        "UniqueVisitors": "2234486",
+        "BounceRate": "0.3590498303"
+    },
+    {
+        "date": "2013-12-10T00:00:00",
+        "PageViews": "6195343",
+        "Visits": "2356600",
+        "UniqueVisitors": "2227891",
+        "BounceRate": "0.3595607281"
+    },
+    {
+        "date": "2013-12-11T00:00:00",
+        "PageViews": "6466093",
+        "Visits": "2448160",
+        "UniqueVisitors": "2311896",
+        "BounceRate": "0.3542515314"
+    },
+    {
+        "date": "2013-12-12T00:00:00",
+        "PageViews": "6551910",
+        "Visits": "2485461",
+        "UniqueVisitors": "2346026",
+        "BounceRate": "0.3505576985"
+    },
+    {
+        "date": "2013-12-13T00:00:00",
+        "PageViews": "6235409",
+        "Visits": "2374973",
+        "UniqueVisitors": "2242232",
+        "BounceRate": "0.3534947455"
+    },
+    {
+        "date": "2013-12-14T00:00:00",
+        "PageViews": "6235421",
+        "Visits": "2349333",
+        "UniqueVisitors": "2208231",
+        "BounceRate": "0.3524640555"
+    },
+    {
+        "date": "2013-12-15T00:00:00",
+        "PageViews": "6183534",
+        "Visits": "2330233",
+        "UniqueVisitors": "2193340",
+        "BounceRate": "0.3559497026"
+    },
+    {
+        "date": "2013-12-16T00:00:00",
+        "PageViews": "6313852",
+        "Visits": "2412589",
+        "UniqueVisitors": "2278138",
+        "BounceRate": "0.361677715"
+    },
+    {
+        "date": "2013-12-17T00:00:00",
+        "PageViews": "6213333",
+        "Visits": "2372514",
+        "UniqueVisitors": "2240116",
+        "BounceRate": "0.3614179454"
+    },
+    {
+        "date": "2013-12-18T00:00:00",
+        "PageViews": "6107350",
+        "Visits": "2328882",
+        "UniqueVisitors": "2198126",
+        "BounceRate": "0.3606221636"
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "PageViews": "5978774",
+        "Visits": "2289061",
+        "UniqueVisitors": "2162484",
+        "BounceRate": "0.3614095025"
+    },
+    {
+        "date": "2013-12-20T00:00:00",
+        "PageViews": "5841293",
+        "Visits": "2220832",
+        "UniqueVisitors": "2095095",
+        "BounceRate": "0.3568145073"
+    },
+    {
+        "date": "2013-12-21T00:00:00",
+        "PageViews": "5879700",
+        "Visits": "2208170",
+        "UniqueVisitors": "2077379",
+        "BounceRate": "0.3534184112"
+    },
+    {
+        "date": "2013-12-22T00:00:00",
+        "PageViews": "5907057",
+        "Visits": "2229404",
+        "UniqueVisitors": "2096856",
+        "BounceRate": "0.3549142452"
+    },
+    {
+        "date": "2013-12-23T00:00:00",
+        "PageViews": "6253804",
+        "Visits": "2382746",
+        "UniqueVisitors": "2248016",
+        "BounceRate": "0.3508893087"
+    },
+    {
+        "date": "2013-12-24T00:00:00",
+        "PageViews": "5716214",
+        "Visits": "2159539",
+        "UniqueVisitors": "2035913",
+        "BounceRate": "0.3493026231"
+    },
+    {
+        "date": "2013-12-25T00:00:00",
+        "PageViews": "6034264",
+        "Visits": "2268178",
+        "UniqueVisitors": "2129772",
+        "BounceRate": "0.3529165294"
+    },
+    {
+        "date": "2013-12-26T00:00:00",
+        "PageViews": "6451678",
+        "Visits": "2444938",
+        "UniqueVisitors": "2301998",
+        "BounceRate": "0.3605341325"
+    },
+    {
+        "date": "2013-12-27T00:00:00",
+        "PageViews": "6328774",
+        "Visits": "2395841",
+        "UniqueVisitors": "2256768",
+        "BounceRate": "0.3595124914"
+    },
+    {
+        "date": "2013-12-28T00:00:00",
+        "PageViews": "6189963",
+        "Visits": "2333545",
+        "UniqueVisitors": "2194440",
+        "BounceRate": "0.3647221776"
+    },
+    {
+        "date": "2013-12-29T00:00:00",
+        "PageViews": "6183667",
+        "Visits": "2313966",
+        "UniqueVisitors": "2176780",
+        "BounceRate": "0.3597183086"
+    },
+    {
+        "date": "2013-12-30T00:00:00",
+        "PageViews": "6469028",
+        "Visits": "2441133",
+        "UniqueVisitors": "2300662",
+        "BounceRate": "0.3605517979"
+    },
+    {
+        "date": "2013-12-31T00:00:00",
+        "PageViews": "5523521",
+        "Visits": "2069896",
+        "UniqueVisitors": "1950572",
+        "BounceRate": "0.3597248568"
+    }
+]
